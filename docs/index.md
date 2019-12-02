@@ -1,6 +1,8 @@
 # Pickling and Error Handling
 **Assignment07**
+
 *Brian Lee*
+
 *12/2/2019*
 
 ## Introduction
