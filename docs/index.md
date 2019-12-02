@@ -15,7 +15,7 @@ Error Handling URL: https://realpython.com/python-exceptions/
 ## Creating and Running My To Do List Script
 After reviewing the given videos/course materials provided in Module 7, our seventh assignment was to independently research how pickling and error handling works and then demonstrate by writing our own script. From the information learned from the course materials and external sources, I wrote a script to capture fake salary data for employees, save, read, amend, pickle, and unpickle data files. To be able to use pickle functions, I had to import the pickle module at the beginning of my script. Next, I worked in error handling by using the try-except block within my Pickle Read function as there is a possibility the file does not exist in the directory.
 
-https://github.com/bslee6555/IntroToProg-Python_Mod07/blob/master/docs/Screen%20Shot%202019-12-02%20at%2011.09.35%20AM.png
+![Figure 1](https://github.com/bslee6555/IntroToProg-Python_Mod07/blob/master/docs/Screen%20Shot%202019-12-02%20at%2011.09.35%20AM.png "Figure 1")
 **Figure 1. Code in PyCharm**
 
 ## Summary
