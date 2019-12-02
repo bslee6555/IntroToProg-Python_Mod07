@@ -1,7 +1,7 @@
 # Pickling and Error Handling
-**Assignment07**
-*Brian Lee*
-*12/2/2019*
+**Assignment07** . 
+*Brian Lee* . 
+*12/2/2019* . 
 
 ## Introduction
 In week 7, we covered the topics of creating scripts using custom functions, working with binary files, and structured error handling. We also worked on building out advanced GitHub web pages by using markdown files. Pickling and error handling was briefly presented in the course materials, but we were instructed to learn more about the these topics on our own as a part of the assignment. Following our independent research, we were tasked with developing our own script to demonstrate our learning.
@@ -9,7 +9,7 @@ In week 7, we covered the topics of creating scripts using custom functions, wor
 ## Pickling and Error Handling Research
 I found both the resources below to be helpful as they are thorough in explaining each step of the process and providing example problem/solutions along the way (similar to the class notes). I appreciate the detail step by step notes to successfully complete the concepts that way we are able to make necessary adjustments from foundation knowledge.
 
-Pickling URL: https://www.datacamp.com/community/tutorials/pickle-python-tutorial
+Pickling URL: https://www.datacamp.com/community/tutorials/pickle-python-tutorial . 
 Error Handling URL: https://realpython.com/python-exceptions/
 
 ## Creating and Running My To Do List Script
