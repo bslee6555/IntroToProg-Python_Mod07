@@ -18,10 +18,10 @@ After reviewing the given videos/course materials provided in Module 7, our seve
 ![Figure 1](https://bslee6555.github.io/IntroToProg-Python_Mod07/Screen%20Shot%202019-12-02%20at%2011.09.35%20AM.png "Figure 1")
 **Figure 1. Code in PyCharm**
 
-![Figure 2](https://github.com/bslee6555/IntroToProg-Python_Mod07/blob/master/docs/Screen%20Shot%202019-12-02%20at%2011.12.03%20AM.png "Figure 1")
+![Figure 2](https://bslee6555.github.io/IntroToProg-Python_Mod07/Screen%20Shot%202019-12-02%20at%2011.12.03%20AM.png "Figure 1")
 **Figure 2. Running the Python Script in Terminal**
 
-![Figure 2](https://github.com/bslee6555/IntroToProg-Python_Mod07/blob/master/docs/Screen%20Shot%202019-12-02%20at%2011.13.12%20AM.png "Figure 1")
+![Figure 2](https://bslee6555.github.io/IntroToProg-Python_Mod07/Screen%20Shot%202019-12-02%20at%2011.13.12%20AM.png "Figure 1")
 **Figure 3. Output File from the Pickling_and_ErrorHandling.py Script**
 
 ## Summary
